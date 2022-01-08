@@ -1,0 +1,12 @@
+.check {
+    width: 80%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.but {
+    background-color: cornflowerblue;
+    color: black;
+    border-radius: 0px;
+    padding: 10px;
+}

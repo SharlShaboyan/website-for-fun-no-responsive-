@@ -1,0 +1,10 @@
+.users {
+    width: 100%;
+}
+
+.todo {
+    margin: 20px auto;
+    height: auto;
+    width: 60%;
+    background-color: grey;
+}

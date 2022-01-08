@@ -1,0 +1,11 @@
+.che, .che1, .che2 {
+    display: inline-block;
+    margin: 5px 20px;
+}
+
+.che2 {
+    background-color: cornflowerblue;
+    color: black;
+    border-radius: 0px;
+    padding: 5px;
+}

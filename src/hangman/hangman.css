@@ -1,0 +1,54 @@
+.game {
+    border: 3px solid black;
+    margin: 50px auto;
+    padding: 20px;
+    width: 70%;
+    height: 500px;
+    display: grid;
+    justify-content: stretch;
+    align-items: stretch;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.lose {
+    display: none;
+}
+
+.show {
+    display: show;
+}
+
+.title, .score {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.nk {
+    height: auto;
+    width: auto;
+}
+
+.answers {
+    display: grid;
+    justify-content: stretch;
+    align-items: stretch;
+    grid-gap: 30px;
+}
+
+.answers > button {
+    border-radius: 0px;
+    padding: 10px;
+    height: auto;
+    margin-top: 50px;
+    background-color: mediumseagreen;
+}
+
+
+
+
+
